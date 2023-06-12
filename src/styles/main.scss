@@ -1,0 +1,18 @@
+@import "utils";
+@import "./blocks/header.scss";
+@import "./blocks/mainContent.scss";
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.page__body {
+  margin: 0 auto;
+  color: $white;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
