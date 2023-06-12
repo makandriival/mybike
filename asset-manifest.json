@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mybike/static/css/main.3a8aa16d.css",
+    "main.js": "/mybike/static/js/main.7c95635e.js",
+    "static/media/footer4x.png": "/mybike/static/media/footer4x.596f7928127415a8fc1d.png",
+    "static/media/1260px.png": "/mybike/static/media/1260px.3020da7599015d8dd8b8.png",
+    "static/media/744.png": "/mybike/static/media/744.507dd2cc5dfa459f7ab5.png",
+    "static/media/det6.png": "/mybike/static/media/det6.a3575063f2eba7cb1440.png",
+    "static/media/det1.png": "/mybike/static/media/det1.9f0cc4823a653de1fa7a.png",
+    "static/media/bc-mobile.png": "/mybike/static/media/bc-mobile.fe01bf06f57106d4b249.png",
+    "static/media/det3.png": "/mybike/static/media/det3.8ec5a497d6cc07a9a262.png",
+    "static/media/det4.png": "/mybike/static/media/det4.479a2f0454f4e645cd6c.png",
+    "static/media/bike3.png": "/mybike/static/media/bike3.c2eff48c910f629219be.png",
+    "static/media/bike2.png": "/mybike/static/media/bike2.be0098c76d9f750430ff.png",
+    "static/media/bike1.png": "/mybike/static/media/bike1.744b67822cbf007047ec.png",
+    "static/media/det5.png": "/mybike/static/media/det5.c79bc99309f85669cdeb.png",
+    "static/media/det2.png": "/mybike/static/media/det2.c2ae5e954414431d2891.png",
+    "static/media/det6-sm.png": "/mybike/static/media/det6-sm.5140a434a7c10a66ea2f.png",
+    "static/media/det3-sm.png": "/mybike/static/media/det3-sm.a60fd4731d58c23abb03.png",
+    "static/media/det1-sm.png": "/mybike/static/media/det1-sm.f6e231c9fbd7a8c2792e.png",
+    "static/media/MyBiKE-black.svg": "/mybike/static/media/MyBiKE-black.c60a26ec00ca741789d7ce0310cf5ac9.svg",
+    "static/media/MyBiKE.svg": "/mybike/static/media/MyBiKE.f598c02daf5dc15aa3cb2b9476012699.svg",
+    "static/media/menu-hover.svg": "/mybike/static/media/menu-hover.ad2bfde624231cfd75b6.svg",
+    "static/media/closeBtn.svg": "/mybike/static/media/closeBtn.35f2ad031305575d3e80.svg",
+    "static/media/menu.svg": "/mybike/static/media/menu.9e6f720c78b4ebfd3c98.svg",
+    "index.html": "/mybike/index.html",
+    "static/media/phIcon.svg": "/mybike/static/media/phIcon.238de1cb4ceef1047b97.svg",
+    "main.3a8aa16d.css.map": "/mybike/static/css/main.3a8aa16d.css.map",
+    "main.7c95635e.js.map": "/mybike/static/js/main.7c95635e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8aa16d.css",
+    "static/js/main.7c95635e.js"
+  ]
+}
