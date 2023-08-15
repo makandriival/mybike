@@ -1,0 +1,67 @@
+<!-- DESCRIPTION
+The purpose of the project is to create the IOS/Android app version for smartphones and tablets of the Edicola webapp, currently in production.
+Apart from the general backlog of details, which will have to be shared in a phase following the acceptance of this proposal and the subsequent constitution of the team/scrum, the key points of the solution will be: -->
+
+<!-- no need for restyling (UX/UI) or mockups provided
+backend shared with the webapp (via API) -->
+
+for pdf reader there is flutter_pdfview library - https://pub.dev/packages/flutter_pdfview
+
+single login across multiple platforms
+  needs more info on theirs website login logic. An acces to their user database to create new users credentials 
+  as well as checking an existing one on login
+
+third-party application for common flipbook reading
+  need to check libraries for the flipbook reading
+
+flipbooks viewable offline 
+  <!-- Shared Preferences:
+  Shared Preferences is a simple key-value storage mechanism provided by Flutter for storing small amounts of data such as user settings or preferences. This data can be accessed even when the app is offline. -->
+
+  <!-- Local Database (SQLite):
+  For more structured and larger datasets, you can use a local database. SQLite is a popular choice for mobile apps. The sqflite package is commonly used in Flutter to interact with SQLite databases. -->
+
+  <!-- Caching Libraries:
+  You can use caching libraries like flutter_cache_manager or hive to cache data, such as images or JSON responses, for offline use. These libraries handle caching and retrieval of data efficiently. -->
+
+share buttons
+<!-- flutter_share:
+The flutter_share package allows you to share text, images, and URLs to various social media platforms like Facebook, Twitter, WhatsApp, and more.
+
+share:
+The share package provides a simple way to share text and URLs across platforms like Facebook, Twitter, email, and more.
+
+esys_flutter_share:
+The esys_flutter_share package allows you to share text, images, and files to various platforms.
+ -->
+
+flipbooks readable in "article" format? (optional if the tool allows it)
+  <!-- does this mean just text not images? -->
+
+should not have in-app purchases
+
+issue push notifications for new releases
+  <!-- Firebase Cloud Messaging (FCM): Firebase Cloud Messaging is a widely used platform for sending push notifications to both Android and iOS devices. Flutter has excellent integration with FCM through the firebase_messaging package, which makes it easy to handle push notifications in your app. -->
+
+  <!-- OneSignal:
+  OneSignal is a cross-platform push notification service that offers a Flutter SDK for easy integration. It provides features like audience targeting, segmentation, and scheduling.
+  Package link: onesignal_flutter
+  OneSignal allows you to send notifications to users based on specific criteria and supports a variety of notification types, including images and buttons. -->
+
+  <!-- Local Notifications:
+  Local notifications are notifications that are triggered by your app itself, rather than being sent from a server. Flutter provides the flutter_local_notifications package, which enables you to display local notifications on both Android and iOS devices.
+  Package link: flutter_local_notifications
+  This package allows you to schedule and customize local notifications, making them useful for reminders and other app-specific notifications. -->
+
+App analytics: Tracking access / readings / bookmarks / dwell time
+  <!-- Firebase Analytics: This is a powerful analytics solution provided by Google. It offers a Flutter plugin, firebase_analytics, that allows you to track various events and user interactions.
+
+  Amplitude: Amplitude is a comprehensive analytics platform that supports tracking user actions, events, and more. The amplitude_flutter package provides integration with Flutter apps.
+
+  Mixpanel: Mixpanel is another analytics platform that allows you to track user actions and events. The mixpanel_flutter package enables integration with your Flutter app. -->
+
+Bookmark / Preference of editorial sections / flipbooks (sync with fooddata)
+
+<!-- Optional and only at the end of the realization of the requirements listed above and if the team has time:
+Newsletter archive
+Survey/polls (app or both - typeform.com embedded) -->
